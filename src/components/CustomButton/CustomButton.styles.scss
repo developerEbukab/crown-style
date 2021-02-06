@@ -21,4 +21,16 @@
     // color: $color-primary ;
     // border: 1px solid $color-primary ;
   }
+
+
+}
+
+.isGoogleSignIn{
+  background-color: #4285f4;
+  color: white;
+
+  &:hover{
+    background-color: darken($color: #4285f4, $amount: 10);
+    border: none;
+  }
 }
