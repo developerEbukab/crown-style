@@ -12,7 +12,7 @@ class Directory extends Component {
     },
     {
       title: 'jackets',
-      imageUrl: 'https://images.unsplash.com/photo-1604644401890-0bd678c83788?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
+      imageUrl: 'https://images.unsplash.com/photo-1599681906464-ec599150575b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjh8fGphY2tldHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
       id: 2,
       linkUrl: 'shop/jackets'
     },
